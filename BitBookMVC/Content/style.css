@@ -1,0 +1,50 @@
+﻿.header_color {
+    background-color: #00AFF0;
+    min-height: 0px;
+      
+}
+.header_text {
+    font-family:  'agencyfbbold';
+    font-size: 70px;
+    padding: 10px 80px;
+    color: white;
+}
+.email_bar {
+    padding: 40px 0px;
+   
+}
+.google_bar {
+    background-color: brown;
+
+}
+.body_container {
+    padding-top: 100px;
+}
+.section_header {
+    margin-right: 80px;
+    background-color: #00AFF0;
+    background: -webkit-linear-gradient(#00AFF0, #f0ffff); 
+    background: -o-linear-gradient(#00AFF0, #f0ffff); 
+    background: -moz-linear-gradient(#00AFF0, #f0ffff); 
+    background: linear-gradient(#00AFF0, #f0ffff); 
+    width: 280px; 
+}
+.section_header_Text {
+    font-family:  'agencyfbbold';
+    font-size: 30px;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+.section_header_subtext {
+    padding-left: 5px;
+    margin-top: -15px;
+}
+.signup_form {
+    margin-top: 20px;
+}
+.signup_button {
+    width: 200px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 10px;
+}
