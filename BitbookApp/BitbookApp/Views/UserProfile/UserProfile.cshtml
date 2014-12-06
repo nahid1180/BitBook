@@ -1,0 +1,103 @@
+﻿@model BitbookApp.Models.UserProfile.RegisterViewModel
+           
+<title>BitBook</title>
+@Styles.Render("~/Content/bootstrap.css")
+@Styles.Render("~/Content/bootstrap-theme.css")
+@Styles.Render("//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css")
+@Styles.Render("~/fonts/StyleSheet.css")
+@Styles.Render("~/Content/Style.css")
+
+
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top header_color" role="navigation">
+        <div class="container-fluid header_color">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <p class="header_text">bitbook</p>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse email_bar">
+                <form class="navbar-form navbar-right" role="form">
+                    <div class="form-group">
+                        <input type="text" placeholder="Email" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <input type="password" placeholder="Password" class="form-control">
+                    </div>
+                    <button type="submit" class="btn btn-success">Sign in</button>
+                </form>
+                <form class="navbar-form navbar-right " role="form">
+                    <p class="form-group">
+                        <button type="submit" class="btn btn-danger">Connect By Google</button>
+                    </p>
+                </form>
+            </div><!--/.navbar-collapse -->
+        </div>
+    </nav>
+    <div class="container body_container">
+        <div class="row ">
+            <article class="col-xs-12 col-md-8">
+                <img id="img_logo" alt="Logo" src="@Url.Content("~/Images/background.png")" />
+            </article>
+            <aside class="col-xs-6 col-md-4">
+                <section>
+                    <div class="row">
+                        <div class="container-fluid">
+                            <div class="section_header">
+                                <p class="section_header_Text">Sign Up!</p>
+                                <p class="section_header_subtext">It is a bonding network always with you</p>
+                            </div>
+                            <div class="row signup_form">
+                                <div class="container-fluid">
+
+                                    @using (Html.BeginForm("Register", "Account", new { @class = "form-horizontal", role = "form" }))
+                                    {
+
+
+                                        @Html.ValidationSummary()
+                                        <div class="form-group">
+                                            @Html.LabelFor(m => m.UserName, new { @class = " control-label text_lebel" })<br />
+                                            <div class="form-group">
+                                                @Html.TextBoxFor(m => m.UserName, new { @class = "form-control text_box_size" })
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            @Html.LabelFor(m => m.Email, new { @class = " control-label text_lebel" })<br />
+                                            <div class="form-group">
+                                                @Html.TextBoxFor(m => m.Email, new { @class = "form-control text_box_size" })
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            @Html.LabelFor(m => m.Password, new { @class = " control-label text_lebel" })<br />
+                                            <div class="form-group">
+                                                @Html.PasswordFor(m => m.Password, new { @class = "form-control text_box_size" })
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            @Html.LabelFor(m => m.ConfirmPassword, new { @class = " control-label text_lebel" })<br />
+                                            <div class="form-group">
+                                                @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control text_box_size" })
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <div class="col-md-offset-2 col-md-10">
+                                                <input type="submit" class="btn btn-default" value="Sign Up" />
+                                            </div>
+                                        </div>
+
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </aside>
+        </div>
+    </div>
+
+</body>
+
