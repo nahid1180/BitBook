@@ -1,0 +1,447 @@
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\BitBook.dll.config
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\BitBook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\BitBook.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Antlr3.Runtime.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\EntityFramework.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\EntityFramework.SqlServer.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Google.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Newtonsoft.Json.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Helpers.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Mvc.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Optimization.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Razor.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\System.Web.WebPages.Deployment.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\System.Web.WebPages.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\System.Web.WebPages.Razor.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\WebGrease.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Helpers.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Mvc.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Optimization.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Razor.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\System.Web.WebPages.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\System.Web.WebPages.Deployment.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\System.Web.WebPages.Razor.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Newtonsoft.Json.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Antlr3.Runtime.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\EntityFramework.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\EntityFramework.SqlServer.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Google.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\obj\Debug\BitBook.csprojResolveAssemblyReference.cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\obj\Debug\BitBook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\obj\Debug\BitBook.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\obj\Debug\BitBook.Migrations.InitialCreate.resources
+E:\Documents\BASIS\OOP C#-- ASP.NET\Project\BitBook\Our Final\BitBook\BitBook\obj\Debug\BitBook.csproj.GenerateResource.Cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\BitBook.dll.config
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\BitBook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\BitBook.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Antlr3.Runtime.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\EntityFramework.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\EntityFramework.SqlServer.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Google.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Newtonsoft.Json.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Helpers.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Mvc.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Optimization.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Razor.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\System.Web.WebPages.Deployment.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\System.Web.WebPages.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\System.Web.WebPages.Razor.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\WebGrease.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\EntityFramework.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\EntityFramework.SqlServer.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Helpers.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Mvc.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Optimization.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\System.Web.Razor.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\System.Web.WebPages.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\System.Web.WebPages.Deployment.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\System.Web.WebPages.Razor.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Newtonsoft.Json.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Antlr3.Runtime.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Google.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\obj\Debug\BitBook.csprojResolveAssemblyReference.cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\obj\Debug\BitBook.Migrations.InitialCreate.resources
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\obj\Debug\BitBook.csproj.GenerateResource.Cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\obj\Debug\BitBook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\obj\Debug\BitBook.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\BitBook.dll.config
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\BitBook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\BitBook.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Antlr3.Runtime.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\EntityFramework.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\EntityFramework.SqlServer.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Security.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Security.Google.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Newtonsoft.Json.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\System.Web.Helpers.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\System.Web.Mvc.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\System.Web.Optimization.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\System.Web.Razor.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\System.Web.WebPages.Deployment.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\System.Web.WebPages.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\System.Web.WebPages.Razor.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\WebGrease.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\EntityFramework.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\EntityFramework.SqlServer.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\System.Web.Helpers.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\System.Web.Mvc.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\System.Web.Optimization.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\System.Web.Razor.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\System.Web.WebPages.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\System.Web.WebPages.Deployment.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\System.Web.WebPages.Razor.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Newtonsoft.Json.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Antlr3.Runtime.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Security.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Security.Google.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\obj\Debug\BitBook.csprojResolveAssemblyReference.cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\obj\Debug\BitBook.Migrations.InitialCreate.resources
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\obj\Debug\BitBook.csproj.GenerateResource.Cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\obj\Debug\BitBook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\obj\Debug\BitBook.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\Bit\BitBook\BitBook\obj\Debug\BitBook.Migrations.status.resources
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\BitBook.dll.config
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\BitBook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\BitBook.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Antlr3.Runtime.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\EntityFramework.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\EntityFramework.SqlServer.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Security.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Security.Google.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Newtonsoft.Json.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\System.Web.Helpers.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\System.Web.Mvc.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\System.Web.Optimization.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\System.Web.Razor.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\System.Web.WebPages.Deployment.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\System.Web.WebPages.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\System.Web.WebPages.Razor.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\WebGrease.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\EntityFramework.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\EntityFramework.SqlServer.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\System.Web.Helpers.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\System.Web.Mvc.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\System.Web.Optimization.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\System.Web.Razor.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\System.Web.WebPages.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\System.Web.WebPages.Deployment.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\System.Web.WebPages.Razor.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Newtonsoft.Json.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Antlr3.Runtime.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Security.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Security.Google.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\obj\Debug\BitBook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\obj\Debug\BitBook.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\Our Final\BitBook\BitBook\BitBook\obj\Debug\BitBook.csprojResolveAssemblyReference.cache
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\BitBook.dll.config
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\BitBook.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\BitBook.pdb
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Antlr3.Runtime.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\EntityFramework.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\EntityFramework.SqlServer.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Newtonsoft.Json.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Owin.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\System.Web.Helpers.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\System.Web.Mvc.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\System.Web.Optimization.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\System.Web.Razor.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\WebGrease.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\EntityFramework.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\EntityFramework.SqlServer.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\System.Web.Helpers.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\System.Web.Mvc.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\System.Web.Optimization.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\System.Web.Razor.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Newtonsoft.Json.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Antlr3.Runtime.pdb
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\obj\Debug\BitBook.csprojResolveAssemblyReference.cache
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\obj\Debug\BitBook.dll
+C:\Users\nahid_cse\Desktop\BitBook_status\BitBook_status\BitBook\obj\Debug\BitBook.pdb
+D:\BitBook_status\BitBook_status\BitBook\bin\BitBook.dll.config
+D:\BitBook_status\BitBook_status\BitBook\bin\BitBook.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\BitBook.pdb
+D:\BitBook_status\BitBook_status\BitBook\bin\Antlr3.Runtime.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\EntityFramework.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\EntityFramework.SqlServer.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Google.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Web.Infrastructure.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Newtonsoft.Json.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\Owin.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\System.Web.Helpers.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\System.Web.Mvc.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\System.Web.Optimization.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\System.Web.Razor.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.Deployment.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.Razor.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\WebGrease.dll
+D:\BitBook_status\BitBook_status\BitBook\bin\EntityFramework.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\EntityFramework.SqlServer.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\System.Web.Helpers.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\System.Web.Mvc.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\System.Web.Optimization.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\System.Web.Razor.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.Deployment.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.Razor.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\Newtonsoft.Json.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\Antlr3.Runtime.pdb
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Google.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BitBook_status\BitBook_status\BitBook\obj\Debug\BitBook.csprojResolveAssemblyReference.cache
+D:\BitBook_status\BitBook_status\BitBook\obj\Debug\BitBook.dll
+D:\BitBook_status\BitBook_status\BitBook\obj\Debug\BitBook.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\BitBook.dll.config
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\BitBook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\BitBook.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Antlr3.Runtime.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\EntityFramework.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\EntityFramework.SqlServer.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Google.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Newtonsoft.Json.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\System.Web.Helpers.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\System.Web.Mvc.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\System.Web.Optimization.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\System.Web.Razor.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.Deployment.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.Razor.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\WebGrease.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\EntityFramework.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\EntityFramework.SqlServer.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\System.Web.Helpers.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\System.Web.Mvc.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\System.Web.Optimization.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\System.Web.Razor.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.Deployment.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\System.Web.WebPages.Razor.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Newtonsoft.Json.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Antlr3.Runtime.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Google.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\obj\Debug\BitBook.csprojResolveAssemblyReference.cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\obj\Debug\BitBook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\Lecture\BitBook_status\BitBook_status\BitBook\obj\Debug\BitBook.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\BitBook.dll.config
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\BitBook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\BitBook.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Antlr3.Runtime.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\EntityFramework.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\EntityFramework.SqlServer.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Security.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Google.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Newtonsoft.Json.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Owin.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\System.Web.Helpers.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\System.Web.Mvc.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\System.Web.Optimization.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\System.Web.Razor.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\System.Web.WebPages.Deployment.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\System.Web.WebPages.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\System.Web.WebPages.Razor.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\WebGrease.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\EntityFramework.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\EntityFramework.SqlServer.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\System.Web.Helpers.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\System.Web.Mvc.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\System.Web.Optimization.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\System.Web.Razor.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\System.Web.WebPages.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\System.Web.WebPages.Deployment.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\System.Web.WebPages.Razor.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Newtonsoft.Json.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Antlr3.Runtime.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Security.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Google.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\obj\Debug\BitBook.csprojResolveAssemblyReference.cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\obj\Debug\BitBook.dll
+E:\Documents\BASIS\OOP C#-- ASP.NET\BitBook\BitBook\BitBook_status\BitBook\obj\Debug\BitBook.pdb
