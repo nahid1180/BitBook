@@ -9,7 +9,7 @@ namespace BitBook.Models
     {
         public int HomeStatusId { set; get; }
         public string StatusName { set; get; }
-        
         public Profile Profile { set; get; }
+        public string FullName { get; set; }
     }
 }

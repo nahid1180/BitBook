@@ -116,3 +116,8 @@
     background-color: red;
     width: 100%;
 }
+.status_name {
+    font-size: 20px;
+    font-weight: bolder;
+    color: #4b0082;
+}

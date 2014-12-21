@@ -29,29 +29,7 @@ namespace BitBook.Controllers
                 Guid UserId = new Guid(User.Identity.GetUserId());
                 var profile = db.UserProfiles.FirstOrDefault(x => x.AspNetUser_Id == UserId);
                 vm.Profile = profile;
-                //var listOfAllStatuses = db.Statuses.ToList();
-                //var listOfUserStatus = new List<Status>();
-                //foreach (Status x in listOfAllStatuses)
-                //{
-                //    if (x.UserWhomStatusBelongsTo == profile.Id) listOfUserStatus.Add(x);
-                //}
-
-                //foreach (var entry in listOfUserStatus)
-                //    vm.StatusList.Add(entry);
-                //if (vm.StatusList.Count == 0)
-                //{
-                //    Status firstStatus = new Status();
-                //    Profile aProfile = new Profile();
-                //    firstStatus.StatusUpdate = "Welcome!";
-                //    //firstStatus.TimeOfUpdate = DateTime.Now;
-                //    firstStatus.UserWhomStatusBelongsTo = aProfile.AspNetUser_Id;
-                //    firstStatus.UpdatedByFullName = aProfile.FullName;
-                //    db.Statuses.Add(firstStatus);
-                //    vm.StatusList.Add(firstStatus);
-                //    db.SaveChanges();
-                //    //vm.StatusList.Add(new Status { StatusUpdate = "Welcome!", UserWhomStatusBelongsTo = profile.Id, UpdatedByFullName = profile.FullName, TimeOfUpdate = DateTime.Now });
-                //}
-
+               
                 return View(vm);
             }
             else
@@ -171,7 +149,6 @@ namespace BitBook.Controllers
             statusUpdate.StatusUpdate = MsgForFriend;
             statusUpdate.UpdatedByFullName = currentUserProfile.FullName;
             statusUpdate.UserWhomStatusBelongsTo = profileOfFriend.Id;
-            //statusUpdate.TimeOfUpdate = DateTime.Now;
             db.Statuses.Add(statusUpdate);
             db.SaveChanges();
             return RedirectToAction("Friends", new { id = currentUserProfile.Id });

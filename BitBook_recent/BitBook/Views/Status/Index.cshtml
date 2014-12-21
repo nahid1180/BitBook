@@ -6,16 +6,18 @@
 }
 <div class="container">
     <div class="row">
-        <aside class="col-md-4">
+        <div class="col-md-4">
             <h3>Profile Picture</h3>
             <img class="profile-pic img-circle" src="/Images/logo.png" width="140" height="140" />
-        </aside>
-        <section class="col-md-8">
-            <h2 style="color: #000080;">Your Status</h2>
+        </div>
+        <div class="col-md-8">
+            <h2>All Statuses</h2>
+
             <p>
-                <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#myModal">
-                    Write Something
+                <button type="button" class="btn btn-success " data-toggle="modal" data-target="#myModal">
+                    Post Status
                 </button>
+
                 <!-- Modal -->
                 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                     <div class="modal-dialog">
@@ -27,14 +29,21 @@
                             <div class="modal-body">
                                 <form class="form-horizontal" id="statusForm" role="form">
                                     <div class="form-group">
-                                        <label for="inputEmail3" class="col-sm-2 control-label">Write Something</label>
+                                        <label for="inputEmail3" class="col-sm-2 control-label">Name</label>
                                         <div class="col-sm-10">
                                             <input type="text" class="form-control" name="name" id="name">
                                         </div>
                                     </div>
                                     <div class="form-group">
+                                        <label for="code" class="col-sm-2 control-label">Status</label>
+                                        <div class="col-sm-10">
+                                            <input type="text" class="form-control" id="status" name="status">
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
                                         <div class="col-sm-offset-2 col-sm-10">
-                                            <button type="submit" class="btn btn-info">Post</button>
+                                            <button type="submit" class="btn btn-default">Post</button>
                                         </div>
                                     </div>
                                 </form>
@@ -43,56 +52,54 @@
                     </div>
                 </div>
             </p>
-            <div>                
+            <div class="table" id="mytable">
+
                 @foreach (var item in Model)
                 {
-                    <div id="mystatus" style="padding-top: 10px;">
-                        <p style="font-weight: bold">
-                            
+                    <p>
+                        <span class="status_name">
+                            @Html.DisplayFor(modelItem => item.FullName)
+                        </span><br />
+                        <span>
                             @Html.DisplayFor(modelItem => item.StatusName)
-                        </p>
-                        <p>
+                        </span>
+                        <span style="float:right">
                             @Html.ActionLink("Edit", "Edit", new { id = item.HomeStatusId }) |
                             @Html.ActionLink("Delete", "Delete", new { id = item.HomeStatusId })
-                        </p>
-                    </div>
+                        </span>
+                    </p>
                 }
 
             </div>
-        </section>
-    </div>    
+        </div>
+    </div>
+
 </div>
 @section scripts
 {
     <script>
-        $(document).ready(function() {
+        $(document).ready(function () {
             $("#statusForm").submit(function () {
 
-                //var code = $("#code").val();
+                var status = $("#status").val();
                 var name = $("#name").val();
-                var mydata = { name: name };
+                var mydata = { name: name, status: status };
                 //alert(code + "\n" + name);
                 $.ajax({
                     type: "POST",
-                    url: '@Url.Action("PostStaus", "Status")',
+                    url: '@Url.Action("PostStatus", "Status")',
                     contentType: "application/json; charset=utf-8",
                     data: JSON.stringify(mydata),
                     dataType: "json",
                     success: function (data) {
-                        //alert("post status successfull");
+                        //alert("data insert success");
 
                         $('#myModal').modal('hide');
-                        $('#mystatus p:last').after('<p>' + name + '</p></br');
+                        $('#mytable p:last').after('<p><span>' + name + '</span><span>' + status + '</span></p></br>');
                     },
                 });
                 return false;
             });
         });
     </script>
-
-
-
-
 }
-
-

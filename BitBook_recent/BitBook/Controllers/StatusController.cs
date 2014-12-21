@@ -46,7 +46,7 @@ namespace BitBook.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include="HomeStatusId,StatusName,Profile.ProfileId")] HomeStatus homestatus)
+        public ActionResult Create([Bind(Include = "HomeStatusId,StatusName,FullName")] HomeStatus homestatus)
         {
             if (ModelState.IsValid)
             {
@@ -78,7 +78,7 @@ namespace BitBook.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include="HomeStatusId,StatusName,Profile.ProfileId")] HomeStatus homestatus)
+        public ActionResult Edit([Bind(Include = "HomeStatusId,StatusName,FullName")] HomeStatus homestatus)
         {
             if (ModelState.IsValid)
             {
@@ -124,14 +124,11 @@ namespace BitBook.Controllers
             base.Dispose(disposing);
         }
 
-        
-
-        public ActionResult PostStaus(string name, string fullName)
+        public ActionResult PostStatus(string name, string status)
         {
             HomeStatus aStatus = new HomeStatus();
-            aStatus.StatusName = name;
-            //aStatus.Profile.FirstName = fullName;
-            // aCategory.Code = code;
+            aStatus.FullName = name;
+            aStatus.StatusName = status;
             db.Status.Add(aStatus);
             db.SaveChanges();
             return Json(true, JsonRequestBehavior.AllowGet);

@@ -13,8 +13,8 @@
             <h3>@Html.DisplayFor(m => m.Profile.FullName) </h3>
 
             <img src="@Url.Action("GetImage", "Profile", new {id = Model.Profile.Id})" class="profile-pic img-circle" width="140" height="140" />
-            <p>
-                Edit your picture. Click the edit link. 
+            <p style="margin-top: 10px">
+                Edit your picture.<br/>
                 @Html.ActionLink("Edit Image", "EditImage", new { id = Model.Profile.Id })
             </p>
             <p>Want to change password</p>
